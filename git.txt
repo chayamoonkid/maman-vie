@@ -1,0 +1,6 @@
+pyt = ["friend", 0]
+x =0
+while (x < pyt.length)
+  print("No" +pyt[x])
+  x++
+end
